@@ -2,7 +2,7 @@
 You can improve python skills by practicing basic coding as follows below
 
 # Overview
-These are 14 practices python basic based on excercise from Tutor Tasya Amanda Adinegara, detail see Excercise Python Basic
+These are 14 practices python basic based on exercise from Tutor Tasya Amanda Adinegara, detail see Excercise Python Basic
 1. Fuction Basic
 2. Create a function that takes two strings as arguments and returns True or False
 3. Create a fuction that takes a string (first name and last name), then return a string of them exchanged
